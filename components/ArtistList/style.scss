@@ -1,0 +1,122 @@
+@import '../../node_modules/coriolan-ui/mixins/clearfix';
+@import '../../node_modules/coriolan-ui/mixins/ratio';
+
+.artist-list {
+    // padding: 0;
+    // margin: 0 auto;
+    // @include clearfix;
+    // list-style: none;
+    // box-sizing: border-box;
+    // text-align: center;
+
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+
+    .artist-page & {
+        text-align: right;
+    }
+
+    &__link {
+        background: rgba(#fff,.0);
+        color: #255161;
+        float: left;
+        transition: background .25s ease;
+        text-decoration: none;
+        position: relative;
+        cursor: pointer;
+        font-size: 10px;
+        // padding: 16px 8px;
+        box-sizing: border-box;
+        // width: 100%;
+        width: 25%;
+        // background: #222;
+        padding: 0 10px 20px;
+
+        .artist-page & {
+            padding: 0;
+            width: 100%;
+        }
+
+        &:after,
+        &:before {
+            content: '';
+            position: absolute;
+            height: 1px;
+            width: 0;
+            background: #255161;
+            transition: width .35s ease;
+            z-index: 555;
+        }
+
+        &:after {
+            left: 0;
+            top: 0;
+        }
+
+        &:before {
+            right: 0;
+            bottom: 0;
+        }
+
+        &:hover,
+        &.is-selected {
+            // color: #fff;
+            background: #c9dde4;
+
+            &:after,
+            &:before {
+                width: 100%;
+            }
+        }
+    }
+
+    &__thumbnail {
+        // width: 100%;
+        overflow: hidden;
+        @include ratio(100%,1,1);
+
+        .artist-page & {
+            // width: 100%;
+            float: left;
+            @include ratio(24px,1,1);
+        }
+    }
+
+    &__cover {
+        width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate3d(-50%,-50%,0);
+        // transition: width .2s ease;
+
+        // .artist-page & {
+        //     width: 14px;
+        //     float: left;
+        //     margin-right: 10px;
+        //     margin-bottom: 0;
+        // }
+    }
+
+    &__title {
+        // position: absolute;
+        // width: 100%;
+        // left: 0;
+        // bottom: 0;
+        padding: 10px 0;
+        font-size: 14px;
+        background: #efefef;
+        // transform: translate3d(0,-100%,0);
+
+        .artist-page & {
+            // position: relative;
+            padding: 6px 0;
+            font-size: 12px;
+            background: rgba(#222,.0);
+        }
+    }
+}

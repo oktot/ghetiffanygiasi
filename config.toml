@@ -1,0 +1,16 @@
+siteTitle = 'Odayakada'
+siteDescr = 'Stuff Need Buy'
+siteDescription = "Odayakada. Building your own house with Green Energy Material"
+siteUrl = "http://odayakadastuff.com"
+siteBandcampUrl = 'https://odayakadastuff.com'
+siteAddress = 'Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương'
+siteAddress2 = '0125 722 3268 - Phạm Xuân Tiếp'
+siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
+siteFacebookUrl = 'https://www.facebook.com/thaoamtanuyen'
+siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
+siteTwitterUrl = 'https://twitter.com/nihon_ne'
+siteGoogleplusUrl = ''
+siteGithubUrl = 'https://github.com/nihonne'
+siteYoutubeUrl = 'https://www.youtube.com/channel/UCyYdu1YpaeSMwK93E32RPFQ'
+
+linkPrefix = '/'

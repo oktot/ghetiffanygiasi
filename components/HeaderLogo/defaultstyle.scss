@@ -1,0 +1,72 @@
+@import '../../node_modules/coriolan-ui/tools/variables';
+@import '../../node_modules/coriolan-ui/mixins/media';
+
+.header-logo {
+
+    &__link {
+        position: relative;
+        height: 50px;
+        padding: 0 8px;
+        color: #255161;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        opacity: .6;
+        float: left;
+        transition: opacity .25s ease;
+
+        &:after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            width: 0;
+            height: 0;
+            transition: width .25s ease .15s,
+                        left .25s ease .15s,
+                        height .25s ease;
+            background: #255161;
+        }
+
+        &:hover {
+            opacity: 1;
+        }
+
+        &.is-selected {
+            opacity: 1;
+
+            &:after {
+                height: 4px;
+                left: 0;
+                width: 100%;
+            }
+        }
+
+        &-icon {
+            width: auto;
+            height: 30px;
+        }
+
+        &-name {
+            font-size: 14px;
+            line-height: 1;
+            margin-left: 1em;
+            display: none;
+            text-align: left;
+            white-space: nowrap;
+
+            @include media(M) {
+                display: flex;
+                flex-direction: column;
+            }
+
+            &-title {
+                font-size: 16px;
+            }
+
+            &-subtitle {
+                opacity: .4;
+            }
+        }
+    }
+}

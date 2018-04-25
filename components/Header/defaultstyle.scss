@@ -1,0 +1,31 @@
+@import '../../node_modules/coriolan-ui/mixins/clearfix';
+
+.header {
+    position: relative;
+    z-index: 1000;
+
+    &__wrapper {
+        // max-width: 999px;
+        padding: 0 10px;
+        border: 1px solid #255161;
+        border-width: 1px 0;
+        box-sizing: border-box;
+        background: #fff;
+        margin: 0 auto;
+        @include clearfix;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &__header-logo {
+        flex-grow: 1;
+    }
+
+    &__mainmenu {
+        flex-grow: 1;
+    }
+
+    &__socnav {
+        flex-grow: 0;
+    }
+}

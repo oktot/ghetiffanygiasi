@@ -1,0 +1,119 @@
+@import '../../node_modules/coriolan-ui/tools/variables';
+
+@import '../../node_modules/coriolan-ui/mixins/clearfix';
+@import '../../node_modules/coriolan-ui/mixins/ratio';
+@import '../../node_modules/coriolan-ui/mixins/media';
+
+$sidebarWidth: 260px;
+$gridIndent: 20px;
+
+.artist-page {
+    @include clearfix;
+    margin: 0 -#{$gridIndent};
+
+    &__sidebar {
+        overflow: hidden;
+        float: left;
+        width: $sidebarWidth;
+        padding: 0 $gridIndent;
+        box-sizing: border-box;
+        display: none;
+
+        @include media(M) {
+            display: block;
+        }
+    }
+
+    &__content {
+        float: left;
+        padding: 0 20px;
+        box-sizing: border-box;
+        width: 100%;
+
+        @include media(M) {
+            width: calc(100% - #{$sidebarWidth});
+        }
+    }
+
+    &__title {
+        // float: left;
+        // width: 100%;
+        margin: 0 0 20px;
+    }
+
+    &__location {
+        font-size: 12px;
+        font-style: italic;
+        margin-bottom: 24px;
+    }
+
+    &__prices {
+        font-size: 24px;
+        font-style: bold;
+        margin-bottom: 24px;
+    }
+
+    &__thumbnail {
+        margin: 0 20px 20px 0;
+        float: left;
+        @include ratio(40%,1,1);
+        // max-width: 222px;
+        overflow: hidden;
+        background: #222;
+    }
+
+    &__cover {
+        position: absolute;
+        top: 50%;
+        left: auto;
+        // float: left;
+        width: 100%;
+        height: auto;
+        // display: block;
+        transform: translate3d(0,-50%,0) scale(1.1);
+    }
+
+    &__iframe-bandcamp {
+        border: 0;
+        width: 100%;
+        float: left;
+        // display: block;
+        height: 120px;
+        // height: 42px;
+        margin-bottom: 20px;
+        // display: none;
+        // visibility: hidden;
+        background: #303030;
+    }
+
+    &__soc-ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        font-size: 0;
+        margin-bottom: 20px;
+    }
+
+    &__soc-li {
+        display: inline-block;
+        font-size: 14px;
+        line-height: 20px;
+        // width: 40px;
+        margin-right: 10px;
+        overflow: hidden;
+        text-align: center;
+	font-weight: bold;
+    }
+
+    &__soc-a {
+        text-decoration: none;
+        padding: 10px 6px;
+        display: block;
+        color: #ccc;
+        background: #4b7549;
+
+        &:hover {
+            background: #666;
+        }
+    }
+}

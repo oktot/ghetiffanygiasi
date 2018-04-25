@@ -1,0 +1,46 @@
+# bakadono-gatsby
+
+_Web development of Baka Dono site_
+
+Gia huy (Mon) hay Kamon của Bakadono Clan ![Bakadono](data:image/png;base64,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 "Bakadono")
+
+# Bakadono.com
+
+Thiết kế này và hệ thống này ban đầu được thiết kế cho việc sử dụng làm nền tảng framework để phát triển hệ thống trang web học tiếng nhật, tài liệu bỏ túi học tiếng nhật của nihonne, thuộc bản quyền của Thảo Am P.E.
+
+địa chỉ https://Bakadono.com
+
+### Resource Used
+
+[Gatsby](https://github.com/gatsbyjs/gatsby) - static site generator based on [ReactJS](https://facebook.github.io/react)
+
+[Webpack](https://webpack.github.io) - build system
+
+[Coriolan UI](https://coriolan-ui.github.io) - [Sass](http://sass-lang.com) mixins pack
+
+[Netlify](https://www.netlify.com) - automatic deploy & free hosting platform
+
+### Run Program
+
+`npm i`
+
+`gatsby develop` or `npm run develop`
+
+### Deploy to Github Pages, or Netlify
+
+`npm run deploy`
+
+#### Have fun! :)
+
+# Licensed
+
+c 2017. Baka Dono, Nihon honne All right reserved.
+Thao Am Private Enterprise. 3702542626.
+
+# Team and Credit
+
+> xuantiep.pham@gmail.com
+   nihonhonne@gmail.com
+   nihonneofficial@gmail.com
+   thaoamtanuyen@gmail.com
+   bakadonoo@gmail.com

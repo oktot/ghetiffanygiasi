@@ -1,0 +1,86 @@
+@import '../../node_modules/coriolan-ui/mixins/clearfix';
+
+.event-list {
+    padding: 0;
+    margin: 0 auto;
+    @include clearfix;
+    list-style: none;
+    box-sizing: border-box;
+    text-align: left;
+
+    .event-page & {
+        text-align: right;
+    }
+
+    &__link {
+        background: rgba(#fff,.0);
+        color: #255161;
+        float: left;
+        // width: 25%;
+        width: 100%;
+        transition: background .25s ease;
+        text-decoration: none;
+        position: relative;
+        cursor: pointer;
+        font-size: 10px;
+        padding: 6px 8px;
+        box-sizing: border-box;
+
+        &:after,
+        &:before {
+            content: '';
+            position: absolute;
+            height: 1px;
+            width: 0;
+            background: #255161;
+            transition: width .35s ease;
+            z-index: 20;
+        }
+
+        &:after {
+            left: 0;
+            top: 0;
+        }
+
+        &:before {
+            right: 0;
+            bottom: 0;
+        }
+
+        &:hover,
+        &.is-selected {
+            // color: #fff;
+            background: #f3f3f3;
+
+            &:after,
+            &:before {
+                width: 100%;
+            }
+        }
+    }
+
+    &__cover {
+        width: 100%;
+        max-width: 144px;
+        float: left;
+        height: auto;
+        display: block;
+        margin: 0 20px 0 0;
+        // transition: width .2s ease;
+
+        .event-page & {
+            width: 14px;
+            float: left;
+            margin-right: 10px;
+            margin-bottom: 0;
+        }
+    }
+
+    &__title {
+        font-size: 16px;
+
+        .event-page & {
+            font-size: 12px;
+        }
+    }
+}

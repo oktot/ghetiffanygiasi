@@ -1,0 +1,42 @@
+@import '../../node_modules/coriolan-ui/tools/variables';
+@import '../../node_modules/coriolan-ui/mixins/media';
+@import '../../node_modules/coriolan-ui/mixins/clearfix';
+
+.homepage {
+    // text-align: center;
+    padding: 0 1em;
+
+    &__logo {
+        margin: 0 auto 20px;
+        display: block;
+        max-width: 400px;
+        height: auto;
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+
+    &__title {
+        // font-family: monospace;
+        // letter-spacing: .1em;
+        margin: 0 0 10px;
+        font-size: 42px;
+        display: none;
+
+        // @include media(S) {
+        //     font-size: 36px;
+        // }
+
+        // @include media(L) {
+        //     font-size: 46px;
+        // }
+    }
+
+    &__description {
+        margin: 0 0 40px;
+        font-size: 20px;
+        // letter-spacing: .2em;
+        // font-family: 'PT Serif', serif;
+        // font-style: italic;
+        display: none;
+    }
+}

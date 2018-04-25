@@ -1,0 +1,62 @@
+@import '../../node_modules/coriolan-ui/tools/variables';
+@import '../../node_modules/coriolan-ui/mixins/media';
+@import '../../node_modules/coriolan-ui/mixins/clearfix';
+
+.mainmenu {
+    display: flex;
+
+    &__link {
+        height: 50px;
+        padding: 0 8px;
+        text-decoration: none;
+        color: #fff;
+        transition: opacity .25s ease;
+        position: relative;
+        display: flex;
+        opacity: .6;
+        align-items: center;
+
+        &:after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            width: 0;
+            height: 0;
+            transition: width .25s ease .15s,
+                        left .25s ease .15s,
+                        height .25s ease;
+            background: #255161;
+        }
+
+        &:hover {
+            opacity: 1;
+        }
+
+        &.is-selected {
+            opacity: 1;
+
+            &:after {
+                height: 4px;
+                left: 0;
+                width: 100%;
+            }
+        }
+
+        &-icon {
+            width: auto;
+            height: 30px;
+            vertical-align: middle;
+        }
+
+        &-name {
+            margin-left: 1em;
+            display: none;
+            font-size: 14px;
+
+            @include media(M) {
+                display: block;
+            }
+        }
+    }
+}

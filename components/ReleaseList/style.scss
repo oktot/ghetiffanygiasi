@@ -1,0 +1,90 @@
+@import '../../node_modules/coriolan-ui/tools/variables';
+@import '../../node_modules/coriolan-ui/mixins/media';
+
+.release-list {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+
+    .release-page & {
+        text-align: right;
+    }
+
+    &__link {
+        background: rgba(#fff,.0);
+        color: #255161;
+        position: relative;
+        font-size: 12px;
+        flex-basis: (100% / 2);
+        color: white;
+        text-decoration: none;
+        padding: 0 10px 20px;
+        box-sizing: border-box;
+
+        @include media(M) {
+            flex-basis: (100% / 4);
+        }
+
+        .release-page & {
+            flex-basis: 100%;
+            padding: 0;
+
+            &:after,
+            &:before {
+                content: '';
+                position: absolute;
+                height: 1px;
+                width: 0;
+                background: #255161;
+                transition: width .35s ease;
+                z-index: 20;
+            }
+
+            &:after {
+                left: 0;
+                top: 0;
+            }
+
+            &:before {
+                right: 0;
+                bottom: 0;
+            }
+
+            &:hover,
+            &.is-selected {
+                background: hsla(0, 0%, 33%, 0.1);
+
+                &:after,
+                &:before {
+                    width: 100%;
+                }
+            }
+        }
+    }
+
+    &__cover {
+        width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+
+        .release-page & {
+            width: 24px;
+            float: left;
+            margin-right: 10px;
+        }
+    }
+
+    &__title {
+        padding: .8em;
+        font-size: 12px;
+        background: #5d6f60;
+
+        .release-page & {
+            padding: .6em 0;
+            font-size: 10px;
+            background: rgba(#222,.0);
+            color: rgba(#000,.6);
+        }
+    }
+}

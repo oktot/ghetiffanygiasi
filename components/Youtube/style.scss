@@ -1,0 +1,33 @@
+@import '../../node_modules/coriolan-ui/tools/variables';
+@import '../../node_modules/coriolan-ui/mixins/media';
+@import '../../node_modules/coriolan-ui/mixins/ratio';
+
+.youtube {
+    max-width: 1111px;
+    // padding: 10px;
+    // box-sizing: border-box;
+    // background: #fff;
+    margin: 0 auto 1em;
+
+    @include media(M) {
+        display: block;
+    }
+
+    &__wrapper {
+        margin: 0 auto;
+        @include ratio(100%,16,9);
+
+        // @include media(M) {
+        //     @include ratio(50%,16,9);
+        // }
+    }
+
+    &__iframe {
+        border: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
