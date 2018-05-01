@@ -11,6 +11,7 @@ keywords: Midorishop how to Payments
 ## Thanh toán bằng tiền mặt
 
 Với hình thức thanh toán bằng tiền mặt, quý khách hàng có thể lựa chọn các phương thức sau:
+
 1. **Đến mua và thanh toán trực tiếp tại cửa hàng của Midorishop** tại địa chỉ sau:
 
 Tại Tp. Hồ Chí Minh:
