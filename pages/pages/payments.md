@@ -14,9 +14,9 @@ Với hình thức thanh toán bằng tiền mặt, quý khách hàng có thể 
 
 **Đến mua và thanh toán trực tiếp tại cửa hàng của Midorishop** tại địa chỉ sau:
 
-Tại Tp. Hồ Chí Minh:
 
-**Công ty Xanh Trong Lành**
+
+**Công ty Xanh Trong Lành Tại Tp. Hồ Chí Minh:**
 
 Mã số thuế 0310891003.
 
@@ -24,7 +24,6 @@ Mã số thuế 0310891003.
 
 Điện thoại liên hệ 0918 870 780 - Mrs Nguyên
 
-Tại Phú Quốc:
 
 **Trụ sở cửa hàng Bình Dương**
 
