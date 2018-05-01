@@ -1,25 +1,49 @@
----
-title: 'Collection of Materials Green Energy to build your house'
+﻿---
+title: 'Ghế Tiffany'
 layout: HomePage
 path: '/'
-meta: Collection of Materials Green Energy to build your house
-keywords: Collection of Materials Green Energy to build your house
+meta: Ghế Tiffany
+keywords: Ghế Tiffany, Ghế Chiavari, Ghế Chiavari midorishop, cho thue ghe Tiffany
 ---
 
 
-# Introduction
+# Giới thiệu
 
-**Bakadono** isn't an Architect. I'm an Guy, who love to create something for my home. my own thing. that's why this site is creating, i trying to collect all the information inneed, just to make sure that every marterial in construction an house green energy, and good looking.
-If you are interesting with me, or have the same idea, please have a seat and read some of my collection here. Thanks you very much.
+Ghế Tiffany hay còn được gọi là Ghế Chiavari là một thiết kế nổi tiếng của vùng Liguria, Ý xuất hiện từ đầu thế kỉ 19. Kể từ khi ra đời, với thiết kế thanh lịch tao nhã, chiếc ghế Tiffany đã có mặt ở khắp mọi nơi, từ phòng tiệc của những khách sạn cao cấp đến phòng ăn của Nhà Trắng. Đặc biệt, ghế Tiffany đã trở thành một phần không thể thiếu của những buổi tiệc cưới thanh lịch. Để tạo nên một đám cưới hiện đại mà vẫn cổ điển lich lãm.
+ 
+Quí khách có thể order thêm theo yêu cầu (tuỳ chọn màu sắc: Vàng, Bạc, Đồng, Trắng ...) thời gian giao hàng từ 15-30 ngày với sản phẩm đặt hàng mới. Báo giá chi tiết vui lòng liên hệ 0918 870 780
 
-...
-Why do the Ahó (Bakadono) trying to create this website? Yes, he Baka. But he know that he must build the house for himself, exactly the right of his life way. And yet, he going to moving to an new place, that's the new home of the Bakadono. So he knew he must do something for it, because someone else will come and tell him what to do.
 
-**Green Material**? (This is what i dreaming about to have it), yes. for the longtime we're hear a lot about the "effects of global warming", yeah. i don't know who will being an victim of the calling "effects of global warming", but for sure one thing that, i must make my home clean and fresh weather, fresh air, and all the other thing you can pointing at.
++ Có 6 màu: Trắng, vàng, bạc, đồng, gold , rose gold
++ Là thương hiệu uy tín lâu năm và là đơn vị đầu tiên cung cấp chủng loại ghế này tại thị trường miền Nam , chúng tôi luôn cam kết 
+* Ghế bền, đẹp.
+* Không bị lỗi khuôn đúc.
+* Ghế đến tay khách không bị trầy xước, lỗi xiêu vẹo ...
+* Free Vận chuyển tận nơi đối với khách tại nội thành Sài Gòn, vận chuyển đến nhà xe cho khách ở tỉnh thành khác.
 
-The Green Buildings Material Stuff is collection of myself, it's something few like... "The Solar Panel?", or maybe "New Technology of Farm, or Agriculture", everything else, if it clean and safe, and making us independent from...
+*** Giá ghế bán theo số lượng: dao động từ 390k-450k tuỳ theo số lượng khách mua. Ghế không kèm nệm.
+# Mọi vấn đề phát sinh khác
 
-...
-And yes, The **Green Material** have some favourite of mine about things else, like Passport wallets, document cover bag, personal thing... so don't be sorry for me, because i build my life here, an list to do thing for me.
+Hãy liên hệ trực tiếp chúng tôi theo địa chỉ sau:
 
-**Baka Stuff**? this area i posts all the product i made in Phu Quoc, Vietnam. Proudly say with the international friends that these thing was "**Made by Bakadono**". That's an best part i want to say from the start. LOL :). There are many stuff i trying to sell under my name, as i'm who create, made it. So have an great time when you see it, and please order something if you like it. Thanks a lot.
+**Thông Tin Shop 1 **
+
+ Address: 168A Võ Thị Sáu, Phường 8, Quận 3, TP.HCM
+ Phone: (08)38204281; Fax: (08)38204280.
+ Email: nguyenle@midorishop.com.vn
+ Working Days/Hours: Từ 8h - 21h | Từ thứ 2 - Chủ nhật. 
+ 
+ **Thông Tin Shop 2 **
+ 
+ Address: 118/49 Bạch Đằng, P24, Q.Bình Thạnh, TP.HCM.
+ Phone: 0918.870.780
+ Email: nguyenle@midorishop.com.vn
+ Working Days/Hours: Từ 8h - 17h | Từ thứ 2 - Thứ 7.
+ 
+Hoặc liên hệ theo số điện thoại được ghi dưới đây [**0918 870 780**](tel:+84918870780) (Thảo Nguyên). 
+
+Hoặc bạn truy cập vào địa chỉ Facebook sau đây [**Ghế Tiffany**](https://www.facebook.com/dotrangtricuoi). Hãy an tâm tận hưởng dịch vụ của Ghế Tiffany - Thương hiệu Ghế Tiffany cao cấp do Midorishop cung cấp bạn nhé.
+
+Thân chào!
+Đội ngũ phát triển và hỗ trợ Khách Hàng
+Chân nến trang trí - Thương hiệu Chân nến cao cấp do Midorishop cung cấp và hân hạnh đồng hành cùng bạn.

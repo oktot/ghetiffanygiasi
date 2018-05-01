@@ -1,7 +1,7 @@
 ---
-title: 'Events'
+title: 'Events & Các sự kiện do Chân nến trang trí Midorishop tổ chức'
 layout: Events
 path: '/events/'
-meta: Bài viết về văn hóa Nhật Bản
-keywords: Bài viết về văn hóa Nhật Bản
+meta: Events & Các sự kiện do Chân nến trang trí Midorishop tổ chức
+keywords: Events & Các sự kiện do Chân nến trang trí Midorishop tổ chức
 ---

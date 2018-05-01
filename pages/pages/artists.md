@@ -1,7 +1,7 @@
 ---
-title: 'Baka Stuff for sell'
+title: 'Chân nến poly'
 layout: Artists
 path: '/artists/'
-meta: Baka Stuff for sell
-keywords: Baka Stuff for sell
+meta: Danh mục Chân nến poly
+keywords: Chân nến poly
 ---
