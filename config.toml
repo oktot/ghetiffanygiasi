@@ -1,16 +1,16 @@
-siteTitle = 'Odayakada'
-siteDescr = 'Stuff Need Buy'
-siteDescription = "Odayakada. Building your own house with Green Energy Material"
-siteUrl = "http://odayakadastuff.com"
-siteBandcampUrl = 'https://odayakadastuff.com'
-siteAddress = 'Tổ 03, Khu phố Bà Tri, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương'
-siteAddress2 = '0125 722 3268 - Phạm Xuân Tiếp'
+siteTitle = 'Ghế tiffany giá sỉ'
+siteDescr = 'Ghế tiffany giá sỉ của Midorishop'
+siteDescription = "Ghế tiffany giá sỉ của Midorishop bền, đẹp, sang trọng"
+siteUrl = "http://ghetiffanygiasi.com"
+siteBandcampUrl = 'ghetiffanygiasi.com'
+siteAddress = '168A VÕ THỊ SÁU, P.8, Q.3, TP.HCM'
+siteAddress2 = '0918 870 780 - Mrs Nguyên'
 siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
-siteFacebookUrl = 'https://www.facebook.com/thaoamtanuyen'
+siteFacebookUrl = 'https://www.facebook.com/dotrangtricuoi'
 siteDiscogsUrl = 'https://www.discogs.com/label/82598-Sentimony-Records'
 siteTwitterUrl = 'https://twitter.com/nihon_ne'
 siteGoogleplusUrl = ''
 siteGithubUrl = 'https://github.com/nihonne'
-siteYoutubeUrl = 'https://www.youtube.com/channel/UCyYdu1YpaeSMwK93E32RPFQ'
+siteYoutubeUrl = 'https://www.youtube.com/channel/UCi7yyqrKPqbYwT-pvmqsgYw'
 
 linkPrefix = '/'
