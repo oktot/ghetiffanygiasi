@@ -3,14 +3,15 @@
 .footer {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(130deg,#1d2020,#050505);
+  background: #676f73;
 
   &__wrapper {
     // max-width: 999px;
     padding: 40px 10px;
+    background: rgba(#676f73,.3);
     margin: 0 auto;
     box-sizing: border-box;
-    background: linear-gradient(130deg,#1d2020,#050505);
+    background: #676f73;
     color: #ffffff;
   }
 

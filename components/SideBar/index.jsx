@@ -1,4 +1,4 @@
-import React from 'react'
+﻿import React from 'react'
 import Youtube from '../Youtube'
 
 import './style.scss'
@@ -12,11 +12,10 @@ class SideBar extends React.Component {
 		<div className='sidebar__sponsor'>Sponsor</div>
                 <div className='sidebar__title'>Important</div>
 		<div className='sidebar__link'>
-		<a href='/about'>About Bakadono</a>
-		<a href='/events/dieu-kien-du-hoc-nhat-ban/'>Điều Kiện Du Học Nhật Bản</a>
-		<a href='/nihongo'>Giới thiệu về Tiếng Nhật</a>
-		<a href='http://thaoam.com'>Phát triển giao diện Thảo Am</a>
-		<a href='/payments'>How to pay? Thanh toán</a>
+		<a href='/about/'>Chân nến trang trí</a>
+		<a href='http://midorishop.com.vn'>Thương hiệu Midorishop</a>
+		<a href='/payments/'>How to pay? Thanh toán</a>
+		<a href='/help'>Hướng dẫn đặt - mua hàng</a>
 		</div>
             </div>
         );

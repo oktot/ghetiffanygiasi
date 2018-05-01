@@ -1,10 +1,10 @@
-import React from 'react'
+﻿import React from 'react'
 import { prefixLink } from 'gatsby-helpers'
 
 import './style.scss'
-import iconEagle from '../../static/img/svg-icons/nihonsuruinline.svg'
-import iconKamon from '../../static/img/svg-icons/nihonsuruinline.svg'
-import iconBakaDono from '../../static/img/svg-icons/bakadono.svg'
+import iconEagle from '../../static/img/svg-icons/bakadono.svg'
+import iconKamon from '../../static/img/svg-icons/bakadono.svg'
+import iconBakaDono from '../../static/img/svg-icons/midori.svg'
 import { config } from 'config'
 
 class Footer extends React.Component {
@@ -17,7 +17,7 @@ class Footer extends React.Component {
 	<div className='footer__container-floating'>
 
   <div className='footer__floating-button' data-toggle='tooltip' data-placement='left' data-original-title='Create' onclick='newmail()'>
-    <a href='tel:+841257223268'><p className='footer__plus'>Gọi</p></a>
+    <a href='tel:+84918870780'><p className='footer__plus'>Gọi</p></a>
   </div>
 
 </div>
@@ -40,9 +40,9 @@ class Footer extends React.Component {
 	    
 	     <div className='footer__powered'>
             <span>Member of the clan </span>
-            <a href='https://odayaka.vn' className='footer__powered-link' target='_blank'>
+            <a href='midorishop.com.vn' className='footer__powered-link' target='_blank'>
               <img className='footer__powered-svg' src={ prefixLink(iconEagle) }/>
-              <span className='footer__powered-fx'>Odayakada</span>
+              <span className='footer__powered-fx'>Midorishop</span>
             </a>
           </div>
 
@@ -60,7 +60,7 @@ class Footer extends React.Component {
             <a href='/tos/privacy'>Privacy</a>
             <a href='/tos'>Terms of service</a>
             <a href='/about' className='is-selected'><img className='footer__powered-svg' src={ prefixLink(iconKamon) }/> Giới thiệu { config.siteTitle }</a>
-	    <a href='http://odayaka.vn/'>© Thao Am Private Enterprise (P.E)</a>
+	    <a href='http://midorishop.com.vn/'>© Midorishop Private Enterprise (P.E)</a>
           </nav>
         </div>
         </div>

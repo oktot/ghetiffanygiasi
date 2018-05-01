@@ -9,7 +9,7 @@
         height: 50px;
         padding: 0 8px;
         text-decoration: none;
-        color: #fff;
+        color: #ffffff;
         transition: opacity .25s ease;
         position: relative;
         display: flex;
@@ -51,7 +51,7 @@
 
         &-name {
             margin-left: 1em;
-            display: none;
+            // display: none;
             font-size: 14px;
 
             @include media(M) {

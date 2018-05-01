@@ -15,7 +15,7 @@
 
     &__wrapper {
         margin: 0 auto;
-        @include ratio(100%,16,9);
+        @include ratio(100%);
 
         // @include media(M) {
         //     @include ratio(50%,16,9);

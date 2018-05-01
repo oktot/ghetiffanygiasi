@@ -5,7 +5,7 @@ import { config } from 'config'
 import Ink from 'react-ink'
 
 import './style.scss'
-import iconBakadonoLogo from '../../static/img/svg-icons/bakadono.svg'
+import iconBakadonoLogo from '../../static/img/svg-icons/midori.svg'
 
 class HeaderLogo extends React.Component {
     render() {

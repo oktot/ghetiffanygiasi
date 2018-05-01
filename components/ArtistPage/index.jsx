@@ -28,15 +28,15 @@ class ReleasePage extends React.Component {
 
                     <div className='artist-page__location'>Made in { post.location }</div>
 
-		    <div className='artist-page__prices'>$ { post.prices }</div>
+		    <div className='artist-page__prices'>Đơn giá { post.prices } K</div>
 
                     { !!post.bandcampLabelTrack ? <iframe className='artist-page__iframe-bandcamp' src={`https://bandcamp.com/EmbeddedPlayer/size=large/bgcol=222222/linkcol=4ec5ec/tracklist=false/artwork=small/track=${ post.bandcampLabelTrack }/transparent=true/`} seamless /> : '' }
 
                     <ul className='artist-page__soc-ul'>
-			{ !!post.orders ? <li className='artist-page__soc-li'><a className='artist-page__soc-a' href={ post.orders } target='_blank'>Order now</a></li> : '' }
-			{ !!post.messages ? <li className='artist-page__soc-li'><a className='artist-page__soc-a' href={ post.messages } target='_blank'>Send an Message</a></li> : '' }
+			{ !!post.orders ? <li className='artist-page__soc-li'><a className='artist-page__soc-a' href={ post.orders } target='_blank'>Gọi ngay</a></li> : '' }
+			{ !!post.messages ? <li className='artist-page__soc-li'><a className='artist-page__soc-a' href={ post.messages } target='_blank'>Mua qua Facebook</a></li> : '' }
                         { !!post.soundcloud ? <li className='artist-page__soc-li'><a className='artist-page__soc-a' href={ post.location } target='_blank'>Delivery $ { post.soundcloud }</a></li> : '' }
-                        { !!post.facebook ? <li className='artist-page__soc-li'><a className='artist-page__soc-a' href={ post.facebook } target='_blank'>Đã Mua</a></li> : '' }
+                        { !!post.facebook ? <li className='artist-page__soc-li'><a className='artist-page__soc-a' href={ post.facebook } target='_blank'>Order now</a></li> : '' }
                         { !!post.mixcloud ? <li className='artist-page__soc-li' style={{display:'none'}}><a className='artist-page__soc-a' href={ post.mixcloud } target='_blank'>mc</a></li> : '' }
                         { !!post.youtube ? <li className='artist-page__soc-li' style={{display:'none'}}><a className='artist-page__soc-a' href={ post.youtube } target='_blank'>yt</a></li> : '' }
                         { !!post.discogs ? <li className='artist-page__soc-li' style={{display:'none'}}><a className='artist-page__soc-a' href={ post.discogs } target='_blank'>dc</a></li> : '' }
