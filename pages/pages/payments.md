@@ -12,7 +12,7 @@ keywords: Midorishop how to Payments
 
 Với hình thức thanh toán bằng tiền mặt, quý khách hàng có thể lựa chọn các phương thức sau:
 
-1. **Đến mua và thanh toán trực tiếp tại cửa hàng của Midorishop** tại địa chỉ sau:
+**Đến mua và thanh toán trực tiếp tại cửa hàng của Midorishop** tại địa chỉ sau:
 
 Tại Tp. Hồ Chí Minh:
 
@@ -32,7 +32,7 @@ Tại Phú Quốc:
 
 Điện thoại đang cập nhật.
 
-2. **Đặt mua và thanh toán sau khi nhận hàng**, quý khách hàng vui lòng điền theo form mẫu và gửi mail cho chúng tôi đến địa chỉ nguyenle@midorishop.com.vn bao gồm các thông tin sau: Họ và tên (của người nhận cũng như người thanh toán), Số điện thoại liên hệ. Chúng tôi sẽ làm việc với các đơn vị vận chuyển sản phẩm thu tiền khi giao hàng.
+**Đặt mua và thanh toán sau khi nhận hàng**, quý khách hàng vui lòng điền theo form mẫu và gửi mail cho chúng tôi đến địa chỉ nguyenle@midorishop.com.vn bao gồm các thông tin sau: Họ và tên (của người nhận cũng như người thanh toán), Số điện thoại liên hệ. Chúng tôi sẽ làm việc với các đơn vị vận chuyển sản phẩm thu tiền khi giao hàng.
 
 ## Thanh toán trực tuyến
 
