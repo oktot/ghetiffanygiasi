@@ -31,7 +31,7 @@ Mã số thuế 0310891003.
 
 Điện thoại đang cập nhật.
 
-**Đặt mua và thanh toán sau khi nhận hàng**, quý khách hàng vui lòng điền theo form mẫu và gửi mail cho chúng tôi đến địa chỉ nguyenle@midorishop.com.vn bao gồm các thông tin sau: Họ và tên (của người nhận cũng như người thanh toán), Số điện thoại liên hệ. Chúng tôi sẽ làm việc với các đơn vị vận chuyển sản phẩm thu tiền khi giao hàng.
+**Đặt mua và thanh toán sau khi nhận hàng**, quý khách hàng vui lòng gửi mail cho chúng tôi đến địa chỉ nguyenle@midorishop.com.vn bao gồm các thông tin sau: Họ và tên (của người nhận cũng như người thanh toán), Số điện thoại liên hệ. Chúng tôi sẽ làm việc với các đơn vị vận chuyển sản phẩm thu tiền khi giao hàng.
 
 ## Thanh toán trực tuyến
 
