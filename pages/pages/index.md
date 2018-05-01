@@ -21,7 +21,7 @@ Quí khách có thể order thêm theo yêu cầu (tuỳ chọn màu sắc: Vàn
 * Ghế đến tay khách không bị trầy xước, lỗi xiêu vẹo ...
 * Free Vận chuyển tận nơi đối với khách tại nội thành Sài Gòn, vận chuyển đến nhà xe cho khách ở tỉnh thành khác.
 
-*** Giá ghế bán theo số lượng: dao động từ 390k-450k tuỳ theo số lượng khách mua. Ghế không kèm nệm.
+*** Giá ghế bán theo số lượng: dao động từ 390k-450k tuỳ theo số lượng khách mua. Ghế kèm nệm.
 # Mọi vấn đề phát sinh khác
 
 Hãy liên hệ trực tiếp chúng tôi theo địa chỉ sau:
