@@ -35,7 +35,7 @@ module.exports = React.createClass({
           <link rel="shortcut icon" href='/bakadono_favicon_32plus144@.png' />
           <link rel="apple-touch-icon" href='/bakadono_favicon_32plus144@.png' />
           <meta property="og:image" content='/bakadono-144@.png' />
-	  <meta name="google-site-verification" content='d9ktQdSdvZcuuwxBsSsreBoPrB667YE1gWzvdlYHhV0' />
+	  <meta name="google-site-verification" content="B_6stvpB1zcm1vUI_U96RhvQLjftjbGPxi2w-p2kgj0" />
           <meta name="format-detection" content='telephone=no' />
           {head.meta.toComponent()}
         </head>
